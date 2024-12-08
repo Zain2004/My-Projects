@@ -1,3 +1,3 @@
 # My-Projects
 This is my first Git Repository.
-Author - Zain
+Author - Zain Ul Abideen
